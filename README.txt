@@ -12,3 +12,6 @@ This is the purpose
 This is the deployment
 
 ## Hot to contribute
+
+### Copyright
+Notice of copyright
