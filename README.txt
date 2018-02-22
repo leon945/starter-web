@@ -13,5 +13,7 @@ This is the deployment
 
 ## Hot to contribute
 
+Please fork this repository and then issue PUll Requests for review
+
 ### Copyright
 Notice of copyright
