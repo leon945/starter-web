@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Leon de la Garza	leon@leon.com @leon945
 
 # THANKS
 
