@@ -16,4 +16,4 @@ This is the deployment
 Please fork this repository and then issue PUll Requests for review
 
 ### Copyright
-Notice of copyright
+Notice of copyright. All rights reserved.
